@@ -1,0 +1,3 @@
+// Providers
+export const DATABASE_CONNECTION = "DATABASE_CONNECTION";
+export const PRODUCT_MODEL = "PRODUCT_MODEL";
